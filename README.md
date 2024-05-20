@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abigail Herrera-Madrid
 - 👀 I’m a Computer Science student on the path to a career in Pharmacy Informatics.
+- 🧠 Interests? Ask me about quantum computing. 
 - 🌱 I’m currently learning Java.
 - ⚡ Fun fact: I'm a car enthusiast.
 
