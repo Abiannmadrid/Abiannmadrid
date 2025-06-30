@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abigail Herrera-Madrid
+- 👋 Hi, I’m Abi Herrera-Madrid
 - 👀 I’m a Computer Science student on the path to a career in Pharmacy Informatics.
 - 🧠 Interests? Quantum computers. 
 - 🌱 I’m currently learning Python.
