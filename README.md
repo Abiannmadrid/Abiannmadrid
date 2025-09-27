@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abigail Herrera-Madrid
-- 👀 I’m a Computer Science student on the path to a career in Pharmacy Informatics.
-- 🧠 Interests? Quantum computers. 
+- 👀 I’m a Computer Science student on the path to a career in Pharmaceutical Informatics.
+- 🧠 Interests? Quantum.
 - 🌱 I’m currently learning Python.
 
 <!---
